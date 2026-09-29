@@ -1,6 +1,6 @@
 # kami-android
 
-Native Android app for Kami — a free, ad-free, swipe-free dating sanctuary for the sapphic/WLW community.
+Native Android app for Kami — a free, ad-free, swipe-free dating sanctuary for the Sapphic and WLW community.
 
 ## Branches and workflow
 
